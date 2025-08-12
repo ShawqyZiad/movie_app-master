@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: "Tajawal", sans-serif !important;
+}
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+/* start pagination */
+
+.pagination button[aria-current="true"] {
+  color: #fff;
+  background-color: #b45b35 !important;
+}
+
+/* end pagination */
